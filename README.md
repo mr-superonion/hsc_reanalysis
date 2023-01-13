@@ -1,4 +1,4 @@
-# HSC year 1 cosmic shear (reprocess)
+# HSC year 1 real space cosmic shear (reprocess)
 
 Please cite the paper if you are using the reprocessed HSC cosmic
 shear data:
