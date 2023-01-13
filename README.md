@@ -16,9 +16,13 @@ cosmosis config.ini
 ```
 ### redshift distribution $n(z)$
 The redshift distribution can be found in this
-[notebook](notebooks/plot_chain.ipynb)
+[notebook](notebooks/1_plot_pzs_nz.ipynb)
+
+### PSF systematics
+The PSF shape-shape residual correlation functions can be found in this
+[notebook](notebooks/2_plot_psf.ipynb)
 
 ## chain
 
 You can plot the output chain following this
-[notebook](notebooks/plot_chain.ipynb)
+[notebook](notebooks/3_plot_chain.ipynb)
