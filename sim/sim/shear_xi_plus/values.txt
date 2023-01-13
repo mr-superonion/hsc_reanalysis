@@ -1,0 +1,8 @@
+bin_avg = False
+is_auto = True
+nbin_a = 4
+nbin_b = 4
+sample_a = 'sample'
+sample_b = 'sample'
+save_name = ''
+sep_name = 'theta'

@@ -1,4 +1,0 @@
-hsc_chi2 = 668.7313314770527
-hsc_log_det = 0.0
-hsc_n = 170
-hsc_norm = -0.0
