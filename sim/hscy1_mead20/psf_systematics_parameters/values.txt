@@ -1,0 +1,8 @@
+alpha_psf = 0.0
+beta_psf = 0.0
+psf_c1_z1 = 0.0
+psf_c2_z1 = 0.0
+psf_cor1_z1 = 0.0
+psf_cor2_z1 = 0.0
+psf_cor3_z1 = 0.0
+psf_cor4_z1 = 0.0
