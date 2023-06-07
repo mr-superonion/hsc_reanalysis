@@ -1,0 +1,2 @@
+alpha_psf = 0.0
+beta_psf = 0.0
